@@ -2,6 +2,7 @@
   "name": "demo-dotolist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://guakun.github.io/vue-ts-todo-demo/dist",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
