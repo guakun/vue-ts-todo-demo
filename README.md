@@ -1,29 +1,5 @@
-# demo-dotolist
+# TodoList 使用 vue + typescript
 
-## Project setup
-```
-yarn install
-```
+### 这是一个练习 typescript 在 Vue 下应用的demo
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 使用了 interface 等 typescript 提供的特性
